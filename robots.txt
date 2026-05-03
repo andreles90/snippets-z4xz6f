@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreles90.github.io/snippets-z4xz6f/sitemap.xml
